@@ -1,4 +1,4 @@
-A simple water mark component based on react.
+A simple watermark component based on react.
 
 there is a demo below:
 
