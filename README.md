@@ -1,9 +1,9 @@
-A simple water maker component based on react.
+A simple water mark component based on react.
 
 there is a demo below:
 
 ``` js
-	import WaterMark from 'esop-water-mark';
+	import WaterMark from 'water-mark-react';
 
 	class Demo extends Component {
 		render() {
