@@ -1,5 +1,5 @@
 {
-    "name": "esop-water-mark",
+    "name": "watermark-react",
     "version": "1.0.1",
     "description": "",
     "main": "./lib/WaterMark.js",
